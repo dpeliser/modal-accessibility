@@ -1,6 +1,8 @@
 # Modal Accessibility
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0 for the Modal Accessibility course from Alura.
+Project developed with the Alura course.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 ## Development server
 

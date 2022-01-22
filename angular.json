@@ -123,10 +123,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "modal-accessibility",
-  "cli": {
-    "analytics": false
-  }
+    }},
+  "defaultProject": "modal-accessibility"
 }
